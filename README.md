@@ -1,8 +1,9 @@
 # learn-shell
+shell scripting
 
-shell scripting topics
-.... text 
-printing
-variable
-comments
-change
+...text
+
+1 printing
+2 commit
+3 varaible
+
